@@ -1,0 +1,92 @@
+E:\mvc\ShoppingKart\ShoppingKart\bin\ApplicationInsights.config
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\csc.exe
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\System.Collections.Immutable.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\System.Reflection.Metadata.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\vbc.exe
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\VBCSCompiler.exe
+E:\mvc\ShoppingKart\ShoppingKart\bin\roslyn\VBCSCompiler.exe.config
+E:\mvc\ShoppingKart\ShoppingKart\bin\ShoppingKart.dll.config
+E:\mvc\ShoppingKart\ShoppingKart\bin\ShoppingKart.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\ShoppingKart.pdb
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.Agent.Intercept.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.DependencyCollector.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.Web.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.WindowsServer.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.ApplicationInsights.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.Web.Infrastructure.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Helpers.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Mvc.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Razor.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.Deployment.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.Razor.dll
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.DependencyCollector.xml
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.Web.xml
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.WindowsServer.xml
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.ApplicationInsights.xml
+E:\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Razor.xml
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.xml
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.Deployment.xml
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.Razor.xml
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Helpers.xml
+E:\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Mvc.xml
+E:\mvc\ShoppingKart\ShoppingKart\obj\Debug\ShoppingKart.csprojResolveAssemblyReference.cache
+E:\mvc\ShoppingKart\ShoppingKart\obj\Debug\ShoppingKart.dll
+E:\mvc\ShoppingKart\ShoppingKart\obj\Debug\ShoppingKart.pdb
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\ApplicationInsights.config
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\csc.exe
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\System.Collections.Immutable.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\System.Reflection.Metadata.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\vbc.exe
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\VBCSCompiler.exe
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\roslyn\VBCSCompiler.exe.config
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\ShoppingKart.dll.config
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\ShoppingKart.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\ShoppingKart.pdb
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.DependencyCollector.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.Web.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.WindowsServer.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.ApplicationInsights.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.Web.Infrastructure.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Helpers.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Mvc.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Razor.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.Deployment.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.Razor.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.DependencyCollector.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.Web.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.AI.WindowsServer.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.ApplicationInsights.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Razor.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.Deployment.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Webpages.Razor.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Helpers.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\bin\System.Web.Mvc.xml
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\obj\Debug\ShoppingKart.csprojResolveAssemblyReference.cache
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\obj\Debug\ShoppingKart.dll
+E:\Training in Supernova\mvc\ShoppingKart\ShoppingKart\obj\Debug\ShoppingKart.pdb
